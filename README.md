@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello! 👋
 
-<!--
-**iansargent/iansargent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Ian. I am an undergraduate studying **Statistics**, with minors in **Psychology** and **Pure Math**. I am focused on statistical analysis, data visualization, and understanding human behavior through data. My goal is to learn more advanced statistical modeling techniques as well as some machine learning methods.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages**: R, Python, Java
+- **Data Analysis**: Regression, hypothesis testing, visualization (ggplot2, excel), data manipulation, time series
+- **Psychology**: Social and developmental research  
+
+## Currently Learning
+- Managing database systems with **Python** (numpy, pandas, matplotlib) and **SQL** 
+- Data analysis and retrieval with **SAS**
+- Advancing **Git** and **GitHub** proficiency  
+
+## LinkedIn
+- **LinkedIn**: https://www.linkedin.com/in/ian-sargent/
