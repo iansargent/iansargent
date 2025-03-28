@@ -5,7 +5,7 @@ My name is Ian. I am an undergraduate studying **Statistics**, with minors in **
 
 ## Skills
 - **Programming Languages**: R, Python, SAS, SQL Java
-- **Data Analysis**: Regression, hypothesis testing, visualization (ggplot2, excel), data cleaning
+- **Data Analysis**: Regression, hypothesis testing, data cleaning, visualization (ggplot2, Excel, Power BI)
 - **Psychology**: Cognitive and developmental psychological constructs  
 
 ## Currently Learning
