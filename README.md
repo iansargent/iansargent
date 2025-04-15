@@ -4,7 +4,7 @@
 My name is Ian. I am an undergraduate studying **Statistics**, with minors in **Psychology** and **Pure Math**. I am focused on statistical analysis, data visualization, and understanding human behavior through data. My goal is to learn more advanced statistical modeling techniques as well as some machine learning methods.
 
 ## Skills
-- **Programming Languages**: R, Python, SAS, SQL Java
+- **Programming Languages**: R, Python, SAS, SQL, and Java
 - **Data Analysis**: Regression, hypothesis testing, data cleaning, visualization (ggplot2, Excel, Power BI)
 - **Psychology**: Cognitive and developmental psychological constructs  
 
