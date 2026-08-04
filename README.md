@@ -16,7 +16,7 @@ I am passionate about using data to understand communities, human behavior, and 
 ## Currently Learning
 
 * Building scalable data systems with **Python, FastAPI, and DuckDB**
-* Developing interactive web applications with **React.js and modern frontend frameworks**
+* Developing interactive web applications with **React.js and the Mantine UI framework**
 
 ## Outside of Work
 
