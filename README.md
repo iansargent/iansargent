@@ -2,7 +2,7 @@
 
 My name is Ian. 
 
-I am a **Data Scientist at the [Leahy Institute for Rural Partnerships](https://www.uvm.edu/ruralpartnerships), developing the [Vermont Data Collaborative](https://www.uvm.edu/ruralpartnerships/vermont-data-collaborative)**. I previously studied **Statistics** at the University of Vermont, with minors in Psychology and Mathematics.
+I am a Data Scientist at the [Leahy Institute for Rural Partnerships](https://www.uvm.edu/ruralpartnerships), developing the [Vermont Data Collaborative](https://www.uvm.edu/ruralpartnerships/vermont-data-collaborative). I previously studied Statistics at the University of Vermont, with minors in Psychology and Mathematics.
 
 I am passionate about using data to understand communities, human behavior, and complex systems through statistical analysis, data engineering, and visualization. In my current role, I develop data-driven tools that integrate public datasets to support rural communities across Vermont. My work focuses on building data pipelines, interactive dashboards, and accessible visualizations that help communities explore topics such as demographics, housing, zoning, infrastructure, and environmental conditions.
 
